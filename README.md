@@ -59,7 +59,7 @@ pip install stem
 
 ## Run the file
 
-### Change the `target_url` to desired ip logger link in `iplogger_spammer.py`.
+### Change the `target_url` to desired 'ip logger link' in `iplogger_spammer.py`.
 
 ```
 python3 iplogger_spammer.py
