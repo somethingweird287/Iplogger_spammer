@@ -41,7 +41,6 @@ Edit file `/etc/tor/torrc` or `/usr/local/etc/tor/torrc`
 ControlPort 9051
 HashedControlPassword <your hashed password here>
 CookieAuthentication 0
-
 ```
 
 Change the following.
@@ -58,9 +57,9 @@ sudo systemctl restart tor
 pip install stem
 ```
 
-## Change the `target_url` to desired ip logger link in `iplogger_spammer.py`.
-
 ## Run the file
+
+### Change the `target_url` to desired ip logger link in `iplogger_spammer.py`.
 
 ```
 python3 iplogger_spammer.py
