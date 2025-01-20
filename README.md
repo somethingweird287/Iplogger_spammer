@@ -1,6 +1,6 @@
 # Iplogger_spammer
 
-Spams ip logging url with from random locations with tor.
+Spams ip logging url from random locations with tor.
 This is my first github repo. Please forgive and report any mistakes made.
 
 # Setup
